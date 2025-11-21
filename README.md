@@ -1,4 +1,7 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+
+### NAME: RAHUL VIJAY V
+### REG NO: 212223040164
  
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
@@ -56,6 +59,9 @@ To set APP Key
 
 
 ## OUTPUT 
+
+<img width="1911" height="913" alt="Screenshot 2025-11-17 130546" src="https://github.com/user-attachments/assets/a7b650fd-3bb6-4343-901c-c3f3dd8f60e0" />
+
 
 
 ## Result: 
